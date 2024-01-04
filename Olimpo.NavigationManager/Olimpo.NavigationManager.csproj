@@ -13,7 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Olimpo.IoC\Olimpo.IoC.csproj" />
+    <ProjectReference Include="Modules\Olimpo.IoC\Olimpo.IoC.csproj" />
+    <ProjectReference Include="..\Modules\Olimpo.IoC\Olimpo.IoC.csproj" />
   </ItemGroup>
 
 </Project>

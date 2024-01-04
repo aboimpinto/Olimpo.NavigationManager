@@ -1,0 +1,3 @@
+[submodule "Modules/Olimpo.IoC"]
+	path = Modules/Olimpo.IoC
+	url = git@github.com:aboimpinto/Olimpo.IoC.git
