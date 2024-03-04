@@ -1,4 +1,7 @@
-﻿namespace Olimpo.NavigationManager;
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace Olimpo.NavigationManager;
 
 public class NavigationManager : INavigationManager
 {
